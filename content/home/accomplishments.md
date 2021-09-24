@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2019-6-01"
+  date_start: "2019-06-01"
   description: ""
   organization: China Scholarship Council (CSC)
   organization_url: https://www.csc.edu.cn/
