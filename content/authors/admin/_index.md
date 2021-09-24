@@ -54,7 +54,7 @@ social:
   link: '/#contact'
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/cv.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,4 +70,4 @@ highlight_name: true
 
 Jue Wang is now a Ph.D. student of Software Engineering in Nanjing University under the supervision of Prof. Jian Lu (with Prof. Xiaoxing Ma, Prof. Chang Xu, and Yanyan Jiang). He is a member of *System & Program Analysis Research* ([SPAR](https://cs.nju.edu.cn/ics/spar/index.html)) group. He will obtain his Ph.D. degree by June 2022 and is looking for job positions and post-doc positions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
