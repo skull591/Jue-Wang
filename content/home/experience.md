@@ -28,7 +28,7 @@ experience:
     location: Nanjing, Jiangsu, China
     date_start: '2016-09-01'
     date_end: ''
-    description: Under the supervision of Prof. Jian Lu.
+    description: Under the supervision of Prof. [Jian Lu](https://cs.nju.edu.cn/58/2a/c2639a153642/page.htm).
         
   - title: Visiting Ph.D. Student
     company: AST Lab, Eidgenössische Technische Hochschule Zürich (ETHZ)
@@ -36,7 +36,7 @@ experience:
     location: Zürich, Switzerland
     date_start: '2019-09-01'
     date_end: '2021-01-10'
-    description: Under the supervision of Prof. Zhendong Su.
+    description: Under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/).
 
   - title: Undergraduate Student
     company: Computer Science and Technology, Nanjing University (NJU)
