@@ -31,7 +31,7 @@ education:
   - course: Visiting Ph.D. Student
     institution: ETHZ
     year: 2019-2021
-  - course: B.S. in Computer Science and Technilogy
+  - course: B.S. in Computer Science and Technology
     institution: Nanjing University
     year: 2012-2016
 
