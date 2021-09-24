@@ -33,8 +33,9 @@ publication_types: ["1"]
 publication: In *the ACM/IEEE 42nd International Conference on Software Engineering*
 publication_short: In *ICSE 2020*
 
-abstract: |
+abstract: >
   Android apps demand high-quality test inputs, whose generation remains an open challenge. Existing techniques fall short on exploring complex app functionalities reachable only by a long, meaningful, and effective test input. Observing that such test inputs can usually be decomposed into relatively independent short use cases, this paper presents ComboDroid, a fundamentally different Android app testing framework. ComboDroid obtains use cases for manifesting a specific app functionality (either manually provided or automatically extracted), and systematically enumerates the combinations of use cases, yielding high-quality test inputs. 
+
   The evaluation results of ComboDroid on real-world apps are encouraging. Our fully automatic variant outperformed the best existing technique APE by covering 4.6% more code (APE only outperformed Monkey by 2.1%), and revealed four previously unknown bugs in extensively tested subjects. Our semi-automatic variant boosts the manual use cases obtained with little manual labor, achieving a comparable coverage (only 3.2% less) with a white-box human testing expert.
 
 # Summary. An optional shortened abstract.
@@ -50,8 +51,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: https://cs.nju.edu.cn/changxu/1_publications/20/ICSE20_02.pdf
+url_code: 'https://github.com/the-themis-benchmarks/combodroid'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -82,12 +83,12 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
