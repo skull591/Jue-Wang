@@ -47,9 +47,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
- - name: Custom Link
-   url: http://example.org
+#links:
+# - name: Custom Link
+#   url: http://example.org
 
 url_pdf: https://cs.nju.edu.cn/changxu/1_publications/20/ICSE20_02.pdf
 url_code: 'https://github.com/the-themis-benchmarks/combodroid'
