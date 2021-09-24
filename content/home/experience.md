@@ -39,10 +39,10 @@ experience:
     description: Under the supervision of Prof. Zhendong Su.
 
   - title: Undergraduate Student
-  	company: Computer Science and Technology, Nanjing University (NJU)
-  	company_url: https://cs.nju.edu.cn/
-  	location: Nanjing, Jiangsu, China
-  	date_start: '2012-09-01'
+    company: Computer Science and Technology, Nanjing University (NJU)
+    company_url: https://cs.nju.edu.cn/
+    location: Nanjing, Jiangsu, China
+    date_start: '2012-09-01'
     date_end: '2016-6-30'
     description: Selected to participate the *[Everest Project](https://zh.wikipedia.org/wiki/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92)*.
 design:
