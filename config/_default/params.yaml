@@ -29,8 +29,15 @@ address:
   postcode: '210023'
   country: China
   country_code: CN
-wexin: skull591
-qq: '382340878'
+contact_links:
+  - icon: weixin
+    icon_pack: fab
+    name: skull591
+    link: 'cv.juewang.info'
+  - icon: qq
+    icon_pack: fab
+    name: '382340878'
+    link: 'cv.juewang.info'
 
 # Site header
 
