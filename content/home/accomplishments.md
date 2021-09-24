@@ -23,29 +23,53 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2020-10-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Huawei
+  organization_url: "https://www.huawei.com/"
+  title: Huawei Scholarship
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2019-6-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: China Scholarship Council (CSC)
+  organization_url: https://www.csc.edu.cn/
+  title: Scholarship Awardee
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-10-01"
+  description: ""
+  organization: ComStar
+  organization_url: http://www.cfets-comstar.com/
+  title: ComStar Scholarship
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2017-10-01"
+  description: ""
+  organization: Huawei
+  organization_url: "https://www.huawei.com/"
+  title: Huawei Scholarship
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-10-01"
+  description: ""
+  organization: Nanjing University
+  organization_url: "https://cs.nju.edu.cn"
+  title: Presidential Special Scholarship
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-06-30"
+  description: ""
+  organization: Nanjing University
+  organization_url: "https://cs.nju.edu.cn"
+  title: Outstanding Graduates of Nanjing University
   url: ""
 
 design:
