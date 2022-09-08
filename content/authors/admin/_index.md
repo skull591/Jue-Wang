@@ -6,12 +6,12 @@ title: Jue Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nanjing University
-  url: https://www.nju.edu.cn/
+- name: Software Engineering Application Technology Lab at Huawei
+  url: [https://www.nju.edu.cn/](https://www.huawei.com/en/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include program analisys, program testing, and Android app quality assurance.
@@ -68,6 +68,5 @@ email: ""
 highlight_name: true
 ---
 
-Jue Wang is now a Ph.D. student of Software Engineering in Nanjing University under the supervision of Prof. Jian Lu (with Prof. Xiaoxing Ma, Prof. Chang Xu, and Yanyan Jiang). He is a member of *System & Program Analysis Research* ([SPAR](https://cs.nju.edu.cn/ics/spar/index.html)) group. He will obtain his Ph.D. degree by June 2022 and is looking for job positions and post-doc positions.
-
+Jue Wang is now a researcher at the Software Engineering Application Technology Lab at Huawei, China. He received his Ph.D. in Software Engineering from Nanjing University under the supervision of Prof. Jian Lu (with Prof. Xiaoxing Ma, Prof. Chang Xu, and Yanyan Jiang) in 2022. He received a B.S. in Computer Science and Technology from Nanjing University in 2016.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
