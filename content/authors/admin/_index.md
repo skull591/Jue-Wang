@@ -11,7 +11,6 @@ role: Ph.D.
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Software Engineering Application Technology Lab at Huawei
-  url: [https://www.nju.edu.cn/](https://www.huawei.com/en/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include program analisys, program testing, and Android app quality assurance.
