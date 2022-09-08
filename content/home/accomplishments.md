@@ -25,6 +25,13 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-06-30"
+  description: ""
+  organization: Nanjing University
+  organization_url: "https://www.nju.edu.cn"
+  title: Outstanding Graduates of Nanjing University (Ph. D.)
+- certificate_url: ""
+  date_end: ""
   date_start: "2020-10-01"
   description: ""
   organization: Huawei
