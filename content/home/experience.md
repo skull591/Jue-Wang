@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: Research Engineer
+    company: Huawei
+    location: Shanghai, China
+    date_start: '2022-08-29'
+    date_end: ''
+    description: At the Software Engineering Application Technology Lab at Huawei
+
   - title: Ph.D. Student
     company: SPAR Group, Computer Science and Technology, Nanjing University (NJU)
     company_url: https://cs.nju.edu.cn/ics/spar/index.html
     location: Nanjing, Jiangsu, China
     date_start: '2016-09-01'
-    date_end: ''
+    date_end: '2022-06-30'
     description: Under the supervision of Prof. [Jian Lu](https://cs.nju.edu.cn/58/2a/c2639a153642/page.htm).
         
   - title: Visiting Ph.D. Student
