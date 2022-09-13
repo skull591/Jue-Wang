@@ -31,8 +31,7 @@ publishDate: "2020-06-27T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations
-of Software Engineering*
+publication: In *Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
 publication_short: In *ESEC/FSE 2022*
 
 abstract: >
