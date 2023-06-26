@@ -1,27 +1,26 @@
 ---
-title: "Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps"
+title: "E-greenDroid: effective energy inefficiency analysis for android applications"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jingling Sun
-- Ting Su
-- Jiayi Jiang
 - admin
-- Geguang Pu
-- Zhendong Su
+- Yepang Liu
+- Chang Xu
+- Xiaoxing Ma
+- Jian Lu
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-12-03T00:00:00Z"
-doi: "10.1145/3468264.3468620"
+date: "2016-9-18T00:00:00Z"
+doi: "10.1145/2993717.2993720"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-03T00:00:00Z"
+publishDate: "2016-9-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,13 +29,14 @@ publishDate: "2023-12-03T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
-publication_short: In *ESEC/FSE 2023*
+publication: In * 8th Asia-Pacific Symposium on Internetware*
+publication_short: In *Internetware 2016*
 
 abstract: |
   Energy inefficiency of smartphone apps is one of the important non-functional issues. It is common, but difficult to diagnose, and often involves sensor usage. GreenDroid provides a novel approach to systematically diagnose energy inefficiency problems in smartphone apps running on Android platforms. It derives an application execution model (AEM) from Android framework and leverages it to realistically simulate an application's runtime behaviors. It also automatically analyzes an application's sensory data utilization, monitors sensor listener and wake lock usage, and reports actionable information to developers.
 
   However, GreenDroid has several limitations. First, other than Android 2.3, it does not support other newer versions of Android. Second, GreenDroid doesn't provide an actionable and reusable state machine based on AEM. Third, its implementation and report generation need optimization. This work focuses on extending GreenDroid's functionality of diagnosing energy inefficiency problems in Android apps. We re-implement GreenDroid on the newest version of Java Pathfinder(JPF), update and optimize the execution simulation process as well as library modeling. Besides, this work adds support to new Android features such as Fragment, and abstracts a separate and reusable state machine out of AEM. With our evaluation, we demonstrate that the extended GreenDroid (E-GreenDroid) can analyze those apps with new Android features while being the same effective as the original version.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://cv.juewang.info/
+url_pdf: EGreenDroid.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,7 +73,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Property-based
+- EGreenDroid
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
