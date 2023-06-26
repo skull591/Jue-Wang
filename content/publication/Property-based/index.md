@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://cv.juewang.info/'
+url_pdf: https://cv.juewang.info/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,7 +73,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Property-Based
+- Property-based
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
