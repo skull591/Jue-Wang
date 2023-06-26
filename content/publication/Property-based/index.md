@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-12-03T00:00:00Z"
-doi: "to appear"
+doi: "10.1145/3468264.3468620"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-12-03T00:00:00Z"
@@ -33,8 +33,7 @@ publication_types: ["1"]
 publication: In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
 publication_short: In *ESEC/FSE 2023*
 
-abstract: >
-  To appear.
+abstract: To appear.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
