@@ -1,16 +1,15 @@
 ---
-title: "Detecting Non-crashing Functional Bugs in Android Apps via Deep-State Differential Analysis"
+title: "Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Yanyan Jiang
+- Jingling Sun
 - Ting Su
-- Shaohua Li
-- Chang Xu
-- Jian Lu
+- Jiayi Jiang
+- admin
+- Geguang Pu
 - Zhendong Su
 
 # Author notes (optional)
