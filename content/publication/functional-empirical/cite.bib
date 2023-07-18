@@ -1,11 +1,17 @@
-@inproceedings{10.1145/3540250.3549170,
-author = {Jingling Sun, Jue Wang, Jiayi Jiang, Jue Wang, Geguang Pu, Zhendong Su},
-title = {Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps},
+@inproceedings{10.1145/3597926.3598138,
+author = {Xiong, Yiheng and Xu, Mengqian and Su, Ting and Sun, Jingling and Wang, Jue and Wen, He and Pu, Geguang and He, Jifeng and Su, Zhendong},
+title = {An Empirical Study of Functional Bugs in Android Apps},
 year = {2023},
-booktitle = {n Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations
-of Software Engineering},
-numpages = {12},
-location = {San Francisco, California, United States},
-series = {ESEC/FSE 23}
+isbn = {9798400702211},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3597926.3598138},
+doi = {10.1145/3597926.3598138},
+abstract = {Android apps are ubiquitous and serve many aspects of our daily lives. Ensuring their functional correctness is crucial for their success. To date, we still lack a general and in-depth understanding of functional bugs, which hinders the development of practices and techniques to tackle functional bugs. To fill this gap, we conduct the first systematic study on 399 functional bugs from 8 popular open-source and representative Android apps to investigate the root causes, bug symptoms, test oracles, and the capabilities and limitations of existing testing techniques. This study took us substantial effort. It reveals several new interesting findings and implications which help shed light on future research on tackling functional bugs. Furthermore, findings from our study guided the design of a proof-of-concept differential testing tool, RegDroid, to automatically find functional bugs in Android apps. We applied RegDroid on 5 real-world popular apps, and successfully discovered 14 functional bugs, 10 of which were previously unknown and affected the latest released versions—all these 10 bugs have been confirmed and fixed by the app developers. Specifically, 10 out of these 14 found bugs cannot be found by existing testing techniques. We have made all the artifacts (including the dataset of 399 functional bugs and RegDroid) in our work publicly available at https://github.com/Android-Functional-bugs-study/home.},
+booktitle = {Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis},
+pages = {1319–1331},
+numpages = {13},
+keywords = {Android, Testing, Non-crashing functional bugs, Empirical study},
+location = {Seattle, WA, USA},
+series = {ISSTA 2023}
 }
-
