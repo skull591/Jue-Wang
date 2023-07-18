@@ -21,7 +21,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-02-17T00:00:00Z"
-doi: "10.1145/3468264.3468620"
+doi: "10.1145/3597926.3598138"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-02-17T00:00:00Z"
@@ -51,9 +51,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3597926.3598138'
+url_code: 'https://github.com/Android-Functional-bugs-study/home'
+url_dataset: 'https://github.com/Android-Functional-bugs-study/home'
 url_poster: ''
 url_project: ''
 url_slides: ''
