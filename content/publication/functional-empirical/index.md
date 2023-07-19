@@ -1,11 +1,11 @@
 ---
-title: "[Distinguished Paper!!] An Empirical Study of Functional Bugs in Android Apps"
+title: "An Empirical Study of Functional Bugs in Android Apps"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yiheng Xiong
+- [Distinguished Paper!!] Yiheng Xiong
 - Mengqian Xu
 - Ting Su
 - Jingling Sun
