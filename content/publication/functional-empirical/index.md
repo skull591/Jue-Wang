@@ -1,5 +1,5 @@
 ---
-title: "An Empirical Study of Functional Bugs in Android Apps"
+title: "[Distinguished Paper!!] An Empirical Study of Functional Bugs in Android Apps"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
