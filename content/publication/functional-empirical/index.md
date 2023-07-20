@@ -5,7 +5,7 @@ title: "An Empirical Study of Functional Bugs in Android Apps"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- [Distinguished Paper!!] Yiheng Xiong
+- Yiheng Xiong
 - Mengqian Xu
 - Ting Su
 - Jingling Sun
@@ -34,7 +34,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis*
-publication_short: In *ISSTA 2023*
+publication_short: In *ISSTA 2023* [Distinguished Paper!!!]
 
 abstract: To appear.
 
