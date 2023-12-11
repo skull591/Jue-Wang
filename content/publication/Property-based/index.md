@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://cv.juewang.info/
+url_pdf: https://tingsu.github.io/files/fse23-PBFDroid.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
