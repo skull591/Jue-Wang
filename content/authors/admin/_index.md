@@ -10,16 +10,17 @@ role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Software Engineering Application Technology Lab at Huawei
+- name: Quality Intelligence Lab at ByteDance
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include program analisys, program testing, and Android app quality assurance.
+bio: My research interests include LLM-enhanced program testing, program analysis, and Android app quality assurance.
 
 # Interests to show in About widget
 interests:
+- Program Testing
 - Mobile App Development and Quality Assurance
 - Program Analysis
-- Program Testing
+
 
 # Education to show in About widget
 education:
@@ -67,5 +68,8 @@ email: ""
 highlight_name: true
 ---
 
-Jue Wang is now a researcher at the Software Engineering Application Technology Lab at Huawei, China. He received his Ph.D. in Software Engineering from Nanjing University under the supervision of Prof. Jian Lu (with Prof. Xiaoxing Ma, Prof. Chang Xu, and Yanyan Jiang) in 2022. He received a B.S. in Computer Science and Technology from Nanjing University in 2016.
+Jue Wang is now a researcher at the Quality Intelligence Lab at ByteDance, China.
+He received his Ph.D. in Software Engineering from Nanjing University under the supervision of Prof. Jian Lu
+(with Prof. Xiaoxing Ma, Prof. Chang Xu, and Yanyan Jiang) in 2022.
+He received a B.S. in Computer Science and Technology from Nanjing University in 2016.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
