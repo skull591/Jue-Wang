@@ -23,10 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Engineer
+    company: ByteDance
+    location: Shanghai, China
+    date_start: '2025-03-04'
+    date_end:
+    description: At the Quality Intelligence Lab at ByteDance
+    
+  - title: Research Engineer
     company: Huawei
     location: Shanghai, China
     date_start: '2022-08-29'
-    date_end: ''
+    date_end: '2024-02-17'
     description: At the Software Engineering Application Technology Lab at Huawei
 
   - title: Ph.D. Student
