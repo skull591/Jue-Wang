@@ -1,26 +1,27 @@
 ---
-title: "Understanding the Reproducibility Issues of Monkey for GUI Testing"
+title: "General and Practical Property-based Testing for Android Apps"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Huiyu Liu
-- Qichao Kong
-- admin
+- Yiheng Xiong
 - Ting Su
-- Haiying Sun
+- admin
+- Jingling Sun
+- Geguang Pu
+- Zhendong Su
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-11-1T00:00:00Z"
-doi: "10.1145/3540250.3549170"
+date: "2024-10-27T00:00:00Z"
+doi: "10.1145/3691620.3694986"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-01T00:00:00Z"
+publishDate: "2024-10-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +30,10 @@ publishDate: "2023-12-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Symposium on Dependable Software Engineering Theories, Tools and Applications*
-publication_short: In *SETTA 2023*
+publication: In *IEEE/ACM International Conference on Automated Software Engineering*
+publication_short: In *ASE 2024* [Distinguished Paper!!!]
 
-abstract: "Automated GUI testing is an essential activity in developing Android apps. Monkey is a widely used representative automated input generation (AIG) tool to efficiently and effectively detect crash bugs in Android apps. However, it faces challenges in reproducing the crash bugs it detects. To deeply understand the symptoms and root causes of these challenges, we conducted a comprehensive study on the reproducibility issues of Monkey with Android apps. We focused on Monkey’s capability to reproduce crash bugs using its built-in replay functionality and explored the root causes of its failures. Specifically, we selected six popular open-source apps and conducted automated instrumentation on them to monitor the invocations of event handlers within the apps. Subsequently, we performed GUI testing with Monkey on these instrumented apps for 6,000 test cases and collected 56 unique crash bugs. For each bug, we replayed it 200 times using Monkey’s replay function and calculated the success rate. Through manual analysis of screen recording files, log files of event handlers, and the source code of the apps, we pinpointed five root causes contributing to Monkey’s reproducibility issues: Injection Failure, Event Ambiguity, Data Loading, Widget Loading, and Dynamic Content. Our research showed that only 36.6% of the replays successfully reproduced the crash bugs, shedding light on Monkey’s limitations in consistently reproducing detected crash bugs. Additionally, we delved deep into the unsuccessfully reproduced replays to discern the root causes behind the reproducibility issues and offered insights for developing future AIG tool"
+abstract: "Finding non-crashing functional bugs for Android apps is challenging for both manual testing and automated GUI testing techniques. This paper introduces and designs a general and practical testing technique based on the idea of property-based testing for finding such bugs. Specifically, our technique incorporates (1) a property description language (PDL) to allow specifying desired app properties, and (2) two exploration strategies as the input generators for effectively validating the properties. We implemented our technique as a tool named Kea and evaluated it on 124 historical bugs from eight real-world, popular Android apps. Our evaluation shows that our PDL can specify all the app properties violated by these historical bugs, demonstrating its generability for finding functional bugs. Kea successfully found 66 (68.0%) and 92 (94.8%) of the 97 historical bugs in scope under the two exploration strategies, demonstrating its practicability. Moreover, Kea found 25 new functional bugs on the latest versions of these eight apps, given the specified properties. To date, all these bugs have been confirmed, and 21 have been fixed. In comparison, prior state-of-the-art techniques found only 13 (13.4%) historical bugs and 1 new bug. We have made all the artifacts publicly available at https://github.com/ecnusse/Kea."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://tingsu.github.io/files/SETTA_2023.pdf
+url_pdf: https://tingsu.github.io/files/ASE24-Kea.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
